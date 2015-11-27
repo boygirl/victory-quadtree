@@ -1,0 +1,19 @@
+{
+  "name": "victory-quadtree",
+  "version": "0.0.1",
+  "description": "quadtree component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-quadtree.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-quadtree/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-quadtree",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
